@@ -1,0 +1,18 @@
+@media (max-width: 90em) {
+  .phone-container {
+    width: 40%;
+    margin-right: 9.5rem;
+  }
+
+  .main-box {
+    width: 70%;
+  }
+
+  .main-box::before {
+    background-color: black;
+  }
+
+  .text-box {
+    padding: 0 16rem 0 0;
+  }
+} ;
